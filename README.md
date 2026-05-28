@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,50:3d1a78,100:6b35c9&height=220&section=header&text=Devanshi%20Saxena&fontSize=56&fontColor=f3e8ff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20LLM%20Architect%20%E2%80%94%20Agentic%20AI&descAlignY=60&descSize=17&descColor=c4b5fd&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b9d,25:c44dff,50:4d79ff,75:00d4aa,100:ff6b9d&height=230&section=header&text=Devanshi%20Saxena&fontSize=58&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=AI%20Engineer%20%C2%B7%20LLM%20Architect%20%C2%B7%20Agentic%20AI&descAlignY=62&descSize=18&descColor=ffffffcc&animation=fadeIn" width="100%" />
 
 </div>
 
@@ -8,199 +8,194 @@
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=22&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI+systems+end-to-end%2C+independently.;From+custom+LLM+architectures+to+RL+environments.;Finalist+%E2%80%94+Meta+PyTorch+%C3%97+Scaler+HuggingFace.;Second-year+B.Tech+student+shipping+to+production." />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=21&duration=3200&pause=900&color=c44dff&center=true&vCenter=true&width=720&lines=Building+AI+systems+end-to-end%2C+independently.;Multi-agent+pipelines+%C2%B7+Custom+LLM+architectures+%C2%B7+RL+environments.;Meta+PyTorch+%26+Scaler+%C3%97+HuggingFace+Hackathon+Finalist.;Second-year+B.Tech+%E2%80%94+shipping+to+production." />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23A78BFA.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshi-saxena-8a7ab92a6)&ensp;
-[![GitHub](https://img.shields.io/badge/GitHub-%233d1a78.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshi442)&ensp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-%236b35c9.svg?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@saxenadevenshi94)&ensp;
-[![Email](https://img.shields.io/badge/devanshi.saxena.38%40gmail.com-%23c4b5fd.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:devanshi.saxena.38@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshi-saxena-8a7ab92a6)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshi442)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/@saxenadevenshi94)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshi.saxena.38@gmail.com)
 
 </div>
 
 ---
 
-<br/>
+## `whoami`
 
 ```python
-class DevanshiSaxena:
+class Devanshi:
+    name        = "Devanshi Saxena"
+    location    = "Kanpur, India"
+    university  = "HBTU — B.Tech Chemical Engineering, CGPA 7.5 (Expected 2028)"
 
-    university  = "Harcourt Butler Technical University, Kanpur"
-    degree      = "B.Tech Chemical Engineering — CGPA 7.5 — Expected 2028"
+    what_i_build = [
+        "custom LLM architectures",
+        "multi-agent pipelines (LangGraph)",
+        "RL environments for cybersecurity",
+        "end-to-end ML systems from research to deployed demo"
+    ]
 
-    domain      = ["LLM Engineering", "Agentic AI", "RL Environments", "Cybersecurity AI"]
-    stack       = ["Python", "LangGraph", "PyTorch", "FastAPI", "Docker", "Groq", "HuggingFace"]
-
-    approach    = "research → architecture → deployed demo, independently."
+    strongest_in = ["Python", "LLM Engineering", "Agentic AI"]
+    currently    = "building adversarial-robust AI systems"
 ```
 
-<br/>
-
-Second-year undergrad. Builds and ships AI systems end-to-end — multi-agent pipelines, custom LLM architectures, reinforcement learning environments for cybersecurity. **Top-2 at HBTU's Smart India Hackathon.** Finalist at **Meta PyTorch** and **OpenEnv Scaler × Hugging Face** hackathons.
+> Second-year undergraduate shipping production AI. Top-2 at HBTU's Smart India Hackathon. Finalist at Meta PyTorch and OpenEnv Scaler × Hugging Face hackathons. Drives problems from research to deployed demo — independently.
 
 ---
 
-<br/>
+## Featured Projects
 
-## Projects
-
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### CyberDefend-X
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RL](https://img.shields.io/badge/Reinforcement_Learning-c44dff?style=flat-square)
 
-> `Python` `FastAPI` `OpenEnv` `Docker` `LLM` `Reinforcement Learning`
-> 
-> **Scaler × Hugging Face Hackathon — Finalist, 2026**
+**Scaler × HuggingFace Hackathon — Finalist 2026**
 
-A full **OpenEnv-compliant RL environment** where an AI agent operates as a SOC analyst across three escalating threat scenarios — alert triage (Kendall Tau grader), multi-signal threat classification, and 4-step incident response with evolving log streams. Typed Pydantic schemas, reward shaping with explainability bonuses, fault-tolerant FastAPI server, Streamlit UI, Docker + HF Spaces deployment. Baseline agent (Grok-3-mini): **0.74 overall score.**
+Full OpenEnv-compliant RL environment where an AI agent plays SOC analyst across 3 escalating scenarios — alert triage (Kendall Tau grader), multi-signal threat classification, 4-step incident response with evolving log streams. Typed Pydantic schemas, reward shaping with explainability bonuses, Streamlit UI + HF Spaces deployment.
 
-[![Repo](https://img.shields.io/badge/view_repository-%233d1a78?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshi442/CyberDefend-X)
+**Baseline agent (Grok-3-mini): 0.74 score**
 
----
+[![View](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshi442/CyberDefend-X)
+
+</td>
+<td width="50%" valign="top">
 
 ### Portfolio Surgeon
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLAMA](https://img.shields.io/badge/LLAMA_3.3_70B-00d4aa?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-> `LangGraph` `LLAMA 3.3 70B` `Groq` `Streamlit` `SQLite`
-> 
-> **ET AI Hackathon 2026**
+**ET AI Hackathon 2026**
 
-A **7-agent agentic system** that ingests CAMS/KFintech mutual fund PDFs and outputs a conviction-scored, tax-aware, execution-ready investment plan in under 45 seconds — at $0 API cost via Groq-hosted LLAMA. LangGraph pipeline with checkpoint-based fault recovery, a **Debate Club module** (Bull / Bear / Judge agents), two-tier PDF parsing, live NAV fetch, and XIRR computation. Deployed on Render.
+7-agent agentic system that ingests CAMS/KFintech mutual fund PDFs and outputs a conviction-scored, tax-aware, execution-ready investment plan in **under 45 seconds at $0 API cost**. LangGraph pipeline with checkpoint-based fault recovery, Debate Club module (Bull / Bear / Judge agents), live NAV fetch + XIRR computation. Deployed on Render.
 
-[![Repo](https://img.shields.io/badge/view_repository-%233d1a78?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshi442/portfolio-surgeon)
+[![View](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshi442/portfolio-surgeon)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Crop Yield Prediction Platform
+### Crop Yield Prediction
+![XGBoost](https://img.shields.io/badge/XGBoost-1786AA?style=flat-square)
+![RandomForest](https://img.shields.io/badge/Random_Forest-639922?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> `Random Forest` `XGBoost` `Python` `HTML`
-> 
-> **Smart India Hackathon 2025 — Top-2 of ~100 teams at HBTU**
+**Smart India Hackathon 2025 — Top-2 of ~100 teams**
 
-End-to-end ML pipeline for crop yield prediction using soil composition, weather patterns, and satellite (NDVI) features. Pest alerts, irrigation and fertilizer recommendations, MSP calculations, and geospatial maps — ensemble of Random Forest + XGBoost.
+End-to-end ML pipeline for crop yield prediction using soil composition, weather, and satellite (NDVI) features. Pest alerts, irrigation and fertilizer recommendations, geospatial maps, MSP calculations. Ensemble of Random Forest + XGBoost.
 
-[![Repo](https://img.shields.io/badge/view_repository-%233d1a78?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshi442/sih_crop_yield)
+[![View](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshi442/sih_crop_yield)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### LLM Policy Assistant
+![RAG](https://img.shields.io/badge/RAG-c44dff?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-ff6b9d?style=flat-square)
 
-> `Python` `LLM` `RAG`
-> 
-> **HackRX Hackathon**
+**HackRX Hackathon**
 
-RAG-powered assistant for answering complex policy queries with accuracy and source attribution. Built end-to-end from data pipeline to deployed interface.
+RAG-powered LLM policy assistant for answering complex policy queries with accuracy and source attribution. Built end-to-end from data pipeline to deployed interface.
 
-[![Repo](https://img.shields.io/badge/view_repository-%233d1a78?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshi442/hackrx_projecttt)
+[![View](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devanshi442/hackrx_projecttt)
 
----
+</td>
+</tr>
+</table>
 
-### ML Research — Sentiment Analysis & Fraud Detection
-
-> `DistilBERT` `LSTM` `GRU` `PyTorch` `HuggingFace`
-
-Fine-tuned `distilbert-base-uncased` on IMDB — **89.1% accuracy, 0.888 F1**, outperforming several larger baselines with a custom training loop. Sequential architecture comparison (LSTM vs. GRU) on Mastercard transaction data; findings directly informed production architecture decisions.
-
----
+<details>
+<summary><b>ML Research — Sentiment Analysis & Fraud Detection</b></summary>
 
 <br/>
 
-## Achievements
+**Sentiment Analysis** — Fine-tuned `distilbert-base-uncased` on IMDB. **89.1% accuracy, 0.888 F1**, outperforming several larger baselines. Custom training loop, no off-the-shelf trainer.
 
-| | |
+**Fraud Detection** — Sequential architecture comparison (LSTM vs. GRU) on Mastercard transaction data. Findings directly informed production architecture decisions.
+
+`PyTorch` `HuggingFace` `DistilBERT` `LSTM` `GRU` `Scikit-learn`
+
+</details>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+| Domain | Tools |
 |---|---|
-| Meta PyTorch & OpenEnv Scaler × HuggingFace Hackathons | Finalist — national-level — 2025–26 |
-| Smart India Hackathon (SIH) | Top-2 of ~100 teams at HBTU — 2025 |
-| Asian Paints Alchemy Phase 2 | PFAS-free hydrophilic self-cleaning paint, 40% maintenance cost reduction — 2025–26 |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-1786AA?style=flat-square) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
+| **LLM & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-00d4aa?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![FAISS](https://img.shields.io/badge/FAISS-c44dff?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) |
+| **Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
+| **Data** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+</div>
 
 ---
-
-<br/>
-
-## Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-%236b35c9?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%233d1a78?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%234a1a8c?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%232d1060?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-**ML / DL**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%236b35c9?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%233d1a78?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%234a1a8c?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%232d1060?style=flat-square&logo=keras&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-%236b35c9?style=flat-square)
-
-**LLM & Agentic AI**
-
-![LangChain](https://img.shields.io/badge/LangChain-%233d1a78?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-%234a1a8c?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%236b35c9?style=flat-square&logo=huggingface&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-%232d1060?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-%233d1a78?style=flat-square&logo=groq&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-%234a1a8c?style=flat-square&logo=openai&logoColor=white)
-
-**Deployment & Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-%236b35c9?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%233d1a78?style=flat-square&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%234a1a8c?style=flat-square&logo=streamlit&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%232d1060?style=flat-square&logo=render&logoColor=white)
-![HF Spaces](https://img.shields.io/badge/HF_Spaces-%236b35c9?style=flat-square&logo=huggingface&logoColor=white)
-
----
-
-<br/>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devanshi442&show_icons=true&hide_border=true&bg_color=0d0a1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&ring_color=6d28d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devanshi442&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c44dff&icon_color=00d4aa&text_color=ffffff&ring_color=ff6b9d" height="165" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi442&layout=compact&hide_border=true&bg_color=0d0a1a&title_color=a78bfa&text_color=c4b5fd" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshi442&layout=compact&hide_border=true&bg_color=0d1117&title_color=c44dff&text_color=ffffff" height="165" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshi442&hide_border=true&background=0d0a1a&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=7c3aed&currStreakNum=a78bfa&sideNums=c4b5fd" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshi442&hide_border=true&background=0d1117&ring=c44dff&fire=ff6b9d&currStreakLabel=00d4aa&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="50%" />
 
 </div>
 
 ---
 
-<br/>
+## Achievements
 
-## Education
+<div align="center">
 
-| Institution | | Year | Result |
-|---|---|---|---|
-| Harcourt Butler Technical University | B.Tech, Chemical Engineering | Expected 2028 | CGPA 7.5 |
-| Swaraj India Public School | ISC Class XII | 2023 | 85% |
-| Swaraj India Public School | ICSE Class X | 2021 | 94% |
+| | Achievement | Year |
+|---|---|---|
+| ![gold](https://img.shields.io/badge/Finalist-FFD700?style=flat-square) | Meta PyTorch & OpenEnv Scaler × HuggingFace Hackathons — national-level | 2025–26 |
+| ![silver](https://img.shields.io/badge/Top--2-C0C0C0?style=flat-square) | Smart India Hackathon — HBTU internal (~100 teams) | 2025 |
+| ![bronze](https://img.shields.io/badge/Phase_2-CD7F32?style=flat-square) | Asian Paints Alchemy — PFAS-free self-cleaning paint, 40% maintenance cost reduction | 2025–26 |
+
+</div>
 
 ---
 
-<br/>
+## Education
 
-## Currently
+<div align="center">
 
-Adversarial robustness and red-teaming of deployed LLMs. Scalable agentic AI architectures. RL environments for autonomous reasoning agents.
+| Institution | Programme | Year | Result |
+|---|---|---|---|
+| **Harcourt Butler Technical University** | B.Tech, Chemical Engineering | Expected 2028 | CGPA 7.5 |
+| Swaraj India Public School | ISC Class XII | 2023 | 85% |
+| Swaraj India Public School | ICSE Class X | 2021 | 94% |
 
-**Member, Entrepreneurship Cell (E-Cell) — HBTU** &ensp;|&ensp; 2025 – Present
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b35c9,50:3d1a78,100:1a0533&height=140&section=footer&fontColor=c4b5fd&fontSize=14" width="100%"/>
+*Currently exploring adversarial robustness, red-teaming of LLMs, and scalable agentic AI architectures.*
+
+**Member, Entrepreneurship Cell (E-Cell) — HBTU** &nbsp;·&nbsp; 2025–Present
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,25:4d79ff,50:c44dff,75:ff6b9d,100:00d4aa&height=140&section=footer" width="100%" />
 
 </div>
